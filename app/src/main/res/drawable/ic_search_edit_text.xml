@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item
+		android:drawable="@drawable/shape_category_background"
+		android:gravity="center_horizontal|center_vertical"
+		android:width="50dp"
+		android:height="40dp" />
+
+	<item
+		android:drawable="@drawable/ic_search_white"
+		android:gravity="center_horizontal|center_vertical"
+		android:width="20dp"
+		android:height="20dp" />
+
+</layer-list>

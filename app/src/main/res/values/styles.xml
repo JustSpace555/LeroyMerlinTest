@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="HeaderTextStyle">
+
+        <item name="android:textSize">16pt</item>
+
+    </style>
+
+    <style name="StandardTextStyle">
+
+        <item name="android:textSize">8pt</item>
+        <item name="android:textColor">@color/black</item>
+
+    </style>
+
+</resources>

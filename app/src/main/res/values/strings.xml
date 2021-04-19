@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Leroy Merlin Test</string>
+
+    <!--  Bottom nav menu  -->
+    <string name="bottom_nav_main_page">Главная</string>
+    <string name="bottom_nav_my_list">Мой список</string>
+    <string name="bottom_nav_stores">Магазины</string>
+    <string name="bottom_nav_profile">Профиль</string>
+    <string name="bottom_nav_shopping_cart">Корзина</string>
+    <!--    -->
+
+
+
+    <!--  Start page  -->
+    <string name="product_search">Поиск товаров</string>
+    <string name="hint_search">Поиск</string>
+    <string name="recently_viewed">Недавно просмотренные</string>
+    <string name="limited_offer">Предложение ограничено</string>
+    <string name="best_price">Лучшая цена</string>
+</resources>
